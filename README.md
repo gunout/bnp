@@ -527,6 +527,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 **⚡ BNP CYBERDECK v6.0 ⚡**
 
 </div>
+
 ---
 
 <div align="center">
